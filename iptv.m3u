@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,Первый канал
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/127/index.m3u8
+#EXTINF:0,Первый канал (+2)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/714/index.m3u8
 #EXTINF:0,НТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/501/index.m3u8
 #EXTINF:0,ТНТ
@@ -28,12 +30,7 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/514/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2105/index.m3u8
 #EXTINF:0,Мир
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/113/index.m3u8
-#EXTINF:0,ТНВ-Планета
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/515/index.m3u8
-#EXTINF:0,ТВЦ
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/520/index.m3u8
-#EXTINF:0,Телеканал Да Винчи
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/537/index.m3u8
+
 #EXTINF:0,Телеканал Звезда
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/544/index.m3u8
 #EXTINF:0,Звезда (+2)
@@ -76,8 +73,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/545/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/712/index.m3u8
 #EXTINF:0,НТВ (+2)
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/713/index.m3u8
-#EXTINF:0,Первый канал (+2)
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/714/index.m3u8
 #EXTINF:0,Санкт-Петербург
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/715/index.m3u8
 #EXTINF:0,Пятый Канал (+2)
@@ -222,58 +217,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2055/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2062/index.m3u8
 #EXTINF:0,Киносат
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2121/index.m3u8
-#EXTINF:0,Europa Plus TV
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/115/index.m3u8
-#EXTINF:0,МУЗ-ТВ
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/116/index.m3u8
-#EXTINF:0,BRIDGE TV Русский Хит
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/120/index.m3u8
-#EXTINF:0,Bridge TV
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/122/index.m3u8
-#EXTINF:0,MTV
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/142/index.m3u8
-#EXTINF:0,MTV Hits
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/153/index.m3u8
-#EXTINF:0,Музыка
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/155/index.m3u8
-#EXTINF:0,Mezzo Live HD
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/208/index.m3u8
-#EXTINF:0,VH1 European
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/536/index.m3u8
-#EXTINF:0,MTV Dance
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/558/index.m3u8
-#EXTINF:0,Mezzo
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/707/index.m3u8
-#EXTINF:0,ТНТ MUSIC
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/710/index.m3u8
-#EXTINF:0,BRIDGE TV DANCE
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/711/index.m3u8
-#EXTINF:0,Наше ТВ
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/721/index.m3u8
-#EXTINF:0,VH1 Classic
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/724/index.m3u8
-#EXTINF:0,Vostok TV
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1054/index.m3u8
-#EXTINF:0,MTV Rocks
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1038/index.m3u8
-#EXTINF:0,MCM Top Russia
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/836/index.m3u8
-#EXTINF:0,RU.TV
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/838/index.m3u8
-#EXTINF:0,Шансон ТВ
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/859/index.m3u8
-#EXTINF:0,VIVA TV
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/301/index.m3u8
-#EXTINF:0, Ля-минор ТВ
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2043/index.m3u8
-#EXTINF:0,Russian Music Box
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2048/index.m3u8
-#EXTINF:0,Курай TV
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2061/index.m3u8
-#EXTINF:0,о2тв
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2068/index.m3u8
-#EXTINF:0,МузСоюз
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2137/index.m3u8
 #EXTINF:0,Жар Птица
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2142/index.m3u8
 #EXTINF:0,AIVA TV
@@ -324,6 +267,12 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/162/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/163/index.m3u8
 #EXTINF:0,Travel Channel
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/130/index.m3u8
+#EXTINF:0,ТНВ-Планета
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/515/index.m3u8
+#EXTINF:0,ТВЦ
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/520/index.m3u8
+#EXTINF:0,Телеканал Да Винчи
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/537/index.m3u8
 #EXTINF:0,Первый образовательный
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/701/index.m3u8
 #EXTINF:0,OCEAN-TV
@@ -478,6 +427,58 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/826/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2021/index.m3u8
 #EXTINF:0,Мужской
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2047/index.m3u8
+#EXTINF:0,Europa Plus TV
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/115/index.m3u8
+#EXTINF:0,МУЗ-ТВ
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/116/index.m3u8
+#EXTINF:0,BRIDGE TV Русский Хит
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/120/index.m3u8
+#EXTINF:0,Bridge TV
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/122/index.m3u8
+#EXTINF:0,MTV
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/142/index.m3u8
+#EXTINF:0,MTV Hits
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/153/index.m3u8
+#EXTINF:0,Музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/155/index.m3u8
+#EXTINF:0,Mezzo Live HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/208/index.m3u8
+#EXTINF:0,VH1 European
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/536/index.m3u8
+#EXTINF:0,MTV Dance
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/558/index.m3u8
+#EXTINF:0,Mezzo
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/707/index.m3u8
+#EXTINF:0,ТНТ MUSIC
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/710/index.m3u8
+#EXTINF:0,BRIDGE TV DANCE
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/711/index.m3u8
+#EXTINF:0,Наше ТВ
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/721/index.m3u8
+#EXTINF:0,VH1 Classic
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/724/index.m3u8
+#EXTINF:0,Vostok TV
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1054/index.m3u8
+#EXTINF:0,MTV Rocks
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1038/index.m3u8
+#EXTINF:0,MCM Top Russia
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/836/index.m3u8
+#EXTINF:0,RU.TV
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/838/index.m3u8
+#EXTINF:0,Шансон ТВ
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/859/index.m3u8
+#EXTINF:0,VIVA TV
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/301/index.m3u8
+#EXTINF:0, Ля-минор ТВ
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2043/index.m3u8
+#EXTINF:0,Russian Music Box
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2048/index.m3u8
+#EXTINF:0,Курай TV
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2061/index.m3u8
+#EXTINF:0,о2тв
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2068/index.m3u8
+#EXTINF:0,МузСоюз
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2137/index.m3u8
 #EXTINF:0,Luxury World
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2072/index.m3u8
 #EXTINF:0,CNL
