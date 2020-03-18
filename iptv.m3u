@@ -34,6 +34,8 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/520/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/537/index.m3u8
 #EXTINF:0,Телеканал Звезда
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/544/index.m3u8
+#EXTINF:0,Победа
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2003/index.m3u8
 #EXTINF:0,Ю ТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/534/index.m3u8
 #EXTINF:0,КВН ТВ
@@ -544,8 +546,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/867/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/868/index.m3u8
 #EXTINF:0,Москва Доверие
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/869/index.m3u8
-#EXTINF:0,Победа
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2003/index.m3u8
 #EXTINF:0,Союз
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2016/index.m3u8
 #EXTINF:0,Здоровое ТВ
