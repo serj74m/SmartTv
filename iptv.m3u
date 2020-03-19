@@ -5,6 +5,8 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/204/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/127/index.m3u8
 #EXTINF:0,Первый канал (+2)
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/714/index.m3u8
+#EXTINF:0,Россия 1
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/504/index.m3u8
 #EXTINF:0,Россия HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/205/index.m3u8
 #EXTINF:0,РТР
@@ -15,8 +17,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/501/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/502/index.m3u8
 #EXTINF:0,Пятница!
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/503/index.m3u8
-#EXTINF:0,Россия 1
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/504/index.m3u8
 #EXTINF:0,СТС
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/506/index.m3u8
 #EXTINF:0,ТВ3
@@ -39,6 +39,14 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/202/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/200/index.m3u8
 #EXTINF:0,VIP Megahit
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/201/index.m3u8
+#EXTINF:0,TV 1000
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/132/index.m3u8
+#EXTINF:0,TV 1000 Action
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/131/index.m3u8
+#EXTINF:0,TV1000 World Kino
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1065/index.m3u8
+#EXTINF:0,TV 1000 Русское кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/101/index.m3u8
 #EXTINF:0,Viasat Nature/History HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/203/index.m3u8
 #EXTINF:0,Мир Premium
@@ -76,8 +84,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/825/index.m3u8
 #EXTINF:0,Euronews Россия
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/828/index.m3u8
 
-#EXTINF:0,TV 1000 Русское кино
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/101/index.m3u8
 #EXTINF:0,Ностальгия
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/102/index.m3u8
 #EXTINF:0,СТС Love
@@ -90,8 +96,7 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/509/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/125/index.m3u8
 #EXTINF:0,РОДНОЕ КИНО
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/126/index.m3u8
-#EXTINF:0,TV 1000 Action
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/131/index.m3u8
+
 #EXTINF:0,Кинохит
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/516/index.m3u8
 #EXTINF:0,Amedia 2
@@ -122,8 +127,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/554/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/555/index.m3u8
 #EXTINF:0,AMEDIA HIT
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/556/index.m3u8
-#EXTINF:0,TV 1000
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/132/index.m3u8
 #EXTINF:0,МУЖСКОЕ КИНО
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/164/index.m3u8
 #EXTINF:0,Hollywood
@@ -161,8 +164,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1001/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1071/index.m3u8
 #EXTINF:0,Дорама
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1066/index.m3u8
-#EXTINF:0,TV1000 World Kino
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1065/index.m3u8
 #EXTINF:0,Мир Сериала
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/856/index.m3u8
 #EXTINF:0,Ретро
