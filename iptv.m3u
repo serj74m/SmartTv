@@ -27,6 +27,9 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2024/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/128/index.m3u8
 #EXTINF:0,РЕН ТВ (+2)
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/747/index.m3u8
+#EXTINF:-1,РЕН ТВ (+4)
+#EXTGRP:Кино и Сериалы
+https://tinyurl.com/sssc2tf/rentv/16/tvrecw/playlist.m3u8
 #EXTINF:0,КИНО ТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/732/index.m3u8
 #EXTINF:0,КИНО ТВ HD
@@ -1129,6 +1132,19 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2186/index.m3u8
 #EXTINF:0,Publika TV
 #EXTINF:0,РТР HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2181/index.m3u8
+#EXTINF:-1,РЕН ТВ
+#EXTGRP:Кино и Сериалы
+http://37.193.18.15:81/udp/239.1.15.5:1234
+#EXTINF:-1,Рен ТВ HD
+#EXTGRP:Кино и Сериалы
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,Рен ТВ International
+#EXTGRP:Кино и Сериалы
+https://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1,РЕН ТВ (+4)
+#EXTGRP:Кино и Сериалы
+https://tinyurl.com/sssc2tf/rentv/16/tvrecw/playlist.m3u8
+
 
 #EXTINF:-1,1 Мистический
 #EXTGRP:Кино и Сериалы
@@ -1544,18 +1560,7 @@ http://strm.yandex.ru/kal/ratnik/ratnik0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1,Ратник HD
 #EXTGRP:Кино и Сериалы
 https://strm.yandex.ru/kal/ratnik/ratnik0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1,РЕН ТВ
-#EXTGRP:Кино и Сериалы
-http://37.193.18.15:81/udp/239.1.15.5:1234
-#EXTINF:-1,Рен ТВ HD
-#EXTGRP:Кино и Сериалы
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1,Рен ТВ International
-#EXTGRP:Кино и Сериалы
-https://sc.id-tv.kz/RenTV_38_39.m3u8
-#EXTINF:-1,РЕН ТВ (+4)
-#EXTGRP:Кино и Сериалы
-https://tinyurl.com/sssc2tf/rentv/16/tvrecw/playlist.m3u8
+
 #EXTINF:-1,Ретро ТВ
 #EXTGRP:Кино и Сериалы
 http://tv.ttk.mx:9032
