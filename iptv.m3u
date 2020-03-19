@@ -1454,9 +1454,6 @@ http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
 #EXTINF:-1,Комедия ТВ
 #EXTGRP:Кино и Сериалы
 http://37.194.13.233:81/udp/239.1.4.3:1234
-#EXTINF:-1,Лен ТВ 24
-#EXTGRP:Кино и Сериалы
-https://cdnmfw.tvzavr.ru/stream/tvzavr/3/5b6b8d7f-274c-4d76-aac2-70c9a33c0738/5b6b8d7f-274c-4d76-aac2-70c9a33c0738-audio_rus%3D321936-video%3D5000320.m3u8
 #EXTINF:-1,Любимое ТВ
 #EXTGRP:Кино и Сериалы
 https://strm.yandex.ru/kal/lovedtv_supres/lovedtv_supres0_169_480p.json/index-v1-a1.m3u8
