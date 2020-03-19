@@ -1130,16 +1130,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2186/index.m3u8
 #EXTINF:0,РТР HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2181/index.m3u8
 
-#EXTM3U
-#EXTINF:-1,Обновлен {15 Марта 2020}
-#EXTGRP:Zigfreed TV
-http://zigfreed.cc.ua/video/22.mp4
-#EXTINF:-1,Zigfreed TV
-#EXTGRP:Zigfreed TV
-http://zigfreed.cc.ua/channel/index.m3u8
-#EXTINF:-1,Zigfreed TV
-#EXTGRP:Кино и Сериалы
-http://zigfreed.cc.ua/channel/index.m3u8
 #EXTINF:-1,1 Мистический
 #EXTGRP:Кино и Сериалы
 http://mnogotv.club/hls/channel-3/index.m3u8
