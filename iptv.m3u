@@ -21,12 +21,16 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/503/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/506/index.m3u8
 #EXTINF:0,ТВ3
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/508/index.m3u8
+#EXTINF:0,Рен ТВ HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2024/index.m3u8
 #EXTINF:0,РЕН ТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/128/index.m3u8
 #EXTINF:0,РЕН ТВ (+2)
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/747/index.m3u8
 #EXTINF:0,КИНО ТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/732/index.m3u8
+#EXTINF:0,КИНО ТВ HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2097/index.m3u8
 #EXTINF:0,Русская Комедия
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/733/index.m3u8
 #EXTINF:0,Че
@@ -758,8 +762,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2007/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2009/index.m3u8
 #EXTINF:0,Cartoon Network HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2011/index.m3u8
-#EXTINF:0,Рен ТВ HD
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2024/index.m3u8
 #EXTINF:0,Fine living HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2027/index.m3u8
 #EXTINF:0,C-Music HD
