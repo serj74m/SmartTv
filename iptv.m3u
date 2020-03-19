@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:0,Первый HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/204/index.m3u8
 #EXTINF:0,Первый канал
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/127/index.m3u8
 #EXTINF:0,Первый канал (+2)
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/714/index.m3u8
+#EXTINF:0,Россия HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/205/index.m3u8
 #EXTINF:0,РТР
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2183/index.m3u8
 #EXTINF:0,НТВ
@@ -29,6 +33,14 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/733/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/513/index.m3u8
 #EXTINF:0,Домашний
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/514/index.m3u8
+#EXTINF:0,VIP Premiere
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/202/index.m3u8
+#EXTINF:0,VIP Comedy
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/200/index.m3u8
+#EXTINF:0,VIP Megahit
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/201/index.m3u8
+#EXTINF:0,Viasat Nature/History HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/203/index.m3u8
 #EXTINF:0,Мир Premium
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2105/index.m3u8
 #EXTINF:0,Мир
@@ -623,18 +635,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/870/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2145/index.m3u8
 #EXTINF:0,СТАРТ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2154/index.m3u8
-#EXTINF:0,Первый HD
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/204/index.m3u8
-#EXTINF:0,VIP Premiere
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/202/index.m3u8
-#EXTINF:0,VIP Comedy
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/200/index.m3u8
-#EXTINF:0,VIP Megahit
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/201/index.m3u8
-#EXTINF:0,Viasat Nature/History HD
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/203/index.m3u8
-#EXTINF:0,Россия HD
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/205/index.m3u8
 #EXTINF:0,Матч! Футбол 3 HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/206/index.m3u8
 #EXTINF:0,Матч! Арена HD
