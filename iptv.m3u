@@ -5,8 +5,6 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/127/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/714/index.m3u8
 #EXTINF:0,РТР
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2183/index.m3u8
-#EXTINF:0,РТР HD
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2181/index.m3u8
 #EXTINF:0,НТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/501/index.m3u8
 #EXTINF:0,ТНТ
@@ -19,13 +17,14 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/504/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/506/index.m3u8
 #EXTINF:0,ТВ3
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/508/index.m3u8
-#EXTINF:0,TV3_HD_OTT
-#EXTVLCOPT:network-caching=1000
-https://plbl.m9.lfstrm.tv/tv3_hd_ott/normal/3/index.m3u8?account=b61070fc2bc6614c&client=689fed54f633d6a4&env=s&expires=1582279200&mpltlh=auto&origin=m9-tproxy&profile=a02e2f8f035f63ee&provider_id=56f1230a4e2e675d26000075&region=ru.north-west.saint_petersburg&token=ruYY2_NMrhSp1QWqz8yHXg&user=f6c78e8b2e17d367&wlid=smotreshka
 #EXTINF:0,РЕН ТВ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/128/index.m3u8
 #EXTINF:0,РЕН ТВ (+2)
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/747/index.m3u8
+#EXTINF:0,КИНО ТВ
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/732/index.m3u8
+#EXTINF:0,Русская Комедия
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/733/index.m3u8
 #EXTINF:0,Че
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/513/index.m3u8
 #EXTINF:0,Домашний
@@ -133,10 +132,7 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/907/index.m3u8
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/722/index.m3u8
 #EXTINF:0,КИНОСВИДАНИЕ
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/728/index.m3u8
-#EXTINF:0,КИНО ТВ
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/732/index.m3u8
-#EXTINF:0,Русская Комедия
-http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/733/index.m3u8
+
 #EXTINF:0,FAN
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/734/index.m3u8
 #EXTINF:0,НТВ‑ХИТ
@@ -1128,7 +1124,8 @@ http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2185/index.m3u8
 #EXTINF:0,8 Канал HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2186/index.m3u8
 #EXTINF:0,Publika TV
-
+#EXTINF:0,РТР HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2181/index.m3u8
 EXTINF: -1,Prime
 http://212.0.215.115:80/Prime/mpegts
 #EXTINF: -1,Prime HD
