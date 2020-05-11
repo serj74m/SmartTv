@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0,Первый HD
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/204/index.m3u8
-#EXTINF:0 tvg-id="rossia1" group-title="Эфирные HD",РОССИЯ 1 HD (Резерв) 
+#EXTINF:0 ,РОССИЯ 1 
 https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
