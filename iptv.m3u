@@ -3,441 +3,288 @@
 http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/204/index.m3u8
 #EXTINF:0 ,РОССИЯ 1 
 https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
-
 #EXTINF:0,Первый канал
 http://176.51.77.121:1234/udp/225.54.205.129:5000?denms.ru
 #EXTINF:0,Первый канал
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.149:5000?denms.ru
 #EXTINF:0,Россия 1
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.130:5000?denms.ru
 #EXTINF:0,Россия 1 (nso)
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.150:5000?denms.ru
 #EXTINF:0,НТВ
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.132:5000?denms.ru
 #EXTINF:0,НТВ
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.152:5000?denms.ru
 #EXTINF:0,Пятый канал
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.133:5000?denms.ru
 #EXTINF:0,Пятый канал
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.153:5000?denms.ru
 #EXTINF:0,РЕН ТВ
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.139:5000?denms.ru
 #EXTINF:0,РЕН ТВ
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.159:5000?denms.ru
 #EXTINF:0,СТС
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.161:5000?denms.ru
 #EXTINF:0,СТС
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/233.7.70.129:5000?denms.ru
-#EXTINF:0,СТС Мир
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.141:5000?denms.ru
-#EXTINF:0,СТС Мир
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.173:5000?denms.ru
-#EXTINF:0,СТС Love
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.131:5000?denms.ru
-#EXTINF:0,СТС Love (+2)
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.130:5000?denms.ru
-#EXTINF:0,ТНТ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.147:5000?denms.ru
-#EXTINF:0,ТНТ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.167:5000?denms.ru
-#EXTINF:0,ТНТ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.24:5000?denms.ru
-#EXTINF:0,ТНТ (+7)
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.25:5000?denms.ru
-#EXTINF:0,ТНТ4
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.23.227:5000?denms.ru
-#EXTINF:0,ТНТ4
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.23.228:5000?denms.ru
-#EXTINF:0,ТНТ4
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.23.229:5000?denms.ru
-#EXTINF:0,ТНТ4
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.177:5000?denms.ru
-#EXTINF:0,Супер
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.203:5000?denms.ru
-#EXTINF:0,Deutsche Welle
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.33:5000?denms.ru
-#EXTINF:0,Euronews
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.32:5000?denms.ru
-#EXTINF:0,Euronews
-#EXTVLCOPT:network-caching=1000
-https://strm.yandex.ru/kal/euronews_supres/euronews_supres0_169_720p.json/index-v1-a1.?denms.ru
-#EXTINF:0,Euronews
-#EXTVLCOPT:network-caching=1000
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8?denms.ru
-#EXTINF:0,France 24
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.30:5000?denms.ru
-#EXTINF:0,Russia Today
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.31:5000?denms.ru
-#EXTINF:0,Известия
-#EXTVLCOPT:network-caching=1000
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:0,Известия
-#EXTVLCOPT:network-caching=1000
-https://strm.yandex.ru/kal/mic/mic0_169_1080p.json/index-v1-a1.m3u8?denms.ru
-#EXTINF:0,Мир
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.146:5000?denms.ru
-#EXTINF:0,Мир
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.166:5000?denms.ru
-#EXTINF:0,Мир 24
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.130:5000?denms.ru
-#EXTINF:0,Настоящее время
-#EXTVLCOPT:network-caching=1000
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?denms.ru
-#EXTINF:0,РБК
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.35:5000?denms.ru
-#EXTINF:0,РБК
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.172:5000?denms.ru
-#EXTINF:0,РЖД
-#EXTVLCOPT:network-caching=1000
-http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
-#EXTINF:0,Россия 24
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.135:5000?denms.ru
-#EXTINF:0,Россия 24
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.155:5000?denms.ru
-#EXTINF:0,Томское время
-#EXTVLCOPT:network-caching=1000
-https://strm.yandex.ru/kal/tomsktime/tomsktime0_169_360p.json/index-v1-a1.m3u8?denms.ru
-#EXTINF:0,24 Техно
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.18:5000?denms.ru
-#EXTINF:0,Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.12:5000?denms.ru
-#EXTINF:0,National Geographic Channel
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.43:5000?denms.ru
-#EXTINF:0,Viasat Explorer
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.16:5000?denms.ru
-#EXTINF:0,Viasat Nature
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.133:5000?denms.ru
-#EXTINF:0,Viasat History
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.17:5000?denms.ru
-#EXTINF:0,Zooпарк
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.11:5000?denms.ru
-#EXTINF:0,Доктор
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.51:5000?denms.ru
-#EXTINF:0,Неизвестная планета
-#EXTVLCOPT:network-caching=1000
-https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8?denms.ru
-#EXTINF:0,Просвещение
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.50:5000?denms.ru
-#EXTINF:0,Eurosport 1
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.13:5000?denms.ru
-#EXTINF:0,Eurosport 2
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.14:5000?denms.ru
-#EXTINF:0,Viasat Sport
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.15:5000?denms.ru
-#EXTINF:0,КХЛ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.5:5000?denms.ru
-#EXTINF:0,КХЛ
-#EXTVLCOPT:network-caching=1000
-http://176.49.73.238:1234/udp/233.7.70.5:5000?denms.ru
-#EXTINF:0,Матч!
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.131:5000?denms.ru
-#EXTINF:0,Матч!
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.151:5000?denms.ru
-#EXTINF:0,Матч! Арена
-#EXTVLCOPT:network-caching=1000
-http://109.171.7.25:81/udp/239.54.6.85:1224?denms.ru
-#EXTINF:0,Матч! Футбол 1 HD
-#EXTVLCOPT:network-caching=1000
-http://94.125.53.200:999/udp/239.191.255.132:15283?denms.ru
-#EXTINF:0,Матч! Футбол 2 HD
-#EXTVLCOPT:network-caching=1000
-http://94.125.53.200:999/udp/239.191.255.133:15283?denms.ru
-#EXTINF:0,Матч! Футбол 3 HD
-#EXTVLCOPT:network-caching=1000
-http://94.125.53.200:999/udp/239.191.255.134:15283?denms.ru
-#EXTINF:0,Матч! Премьер
-#EXTVLCOPT:network-caching=1000
-http://37.235.217.98:81/udp/225.50.67.1:1234?denms.ru
-#EXTINF:0,Русский ЭКСТРИМ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.7:5000?denms.ru
-#EXTINF:0,English Club TV
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.48:5000?denms.ru
-#EXTINF:0,Food Network HD
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.10:5000?denms.ru
-#EXTINF:0,Ocean TV
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.46:5000?denms.ru
-#EXTINF:0,Драйв
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.8:5000?denms.ru
-#EXTINF:0,Здоровое ТВ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.47:5000?denms.ru
-#EXTINF:0,Конный мир
-#EXTVLCOPT:network-caching=1000
-http://109.248.88.245:4022/udp/239.195.1.109:1234?denms.ru
-#EXTINF:0,Наша Сибирь HD
-#EXTVLCOPT:network-caching=1000
-https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8?denms.ru
-#EXTINF:0,Охота и рыбалка
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.44:5000?denms.ru
-#EXTINF:0,Усадьба
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.45:5000?denms.ru
-#EXTINF:0,Успех
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.36:5000?denms.ru
-#EXTINF:0,2x2 (+2)
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.243:5000?denms.ru
-#EXTINF:0,2x2 (+4)
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.241:5000?denms.ru
-#EXTINF:0,World Fashion Channel
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.57:5000?denms.ru
-#EXTINF:0,Домашний
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.142:5000?denms.ru
-#EXTINF:0,Домашний
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.162:5000?denms.ru
-#EXTINF:0,Пятница
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.144:5000?denms.ru
-#EXTINF:0,Ретро ТВ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.42:5000?denms.ru
-#EXTINF:0,Теледом
-#EXTVLCOPT:network-caching=1000
-rtmp://91.209.128.203:1935/live/teledom3?denms.ru
-#EXTINF:0,Че
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.211:5000?denms.ru
-#EXTINF:0,Че (+7)
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.212:5000?denms.ru
-#EXTINF:0,Ю
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.221:5000?denms.ru
-#EXTINF:0,Ю
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.223:5000?denms.ru
-#EXTINF:0,Ю
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.171:5000?denms.ru
-#EXTINF:0,Юмор BOX
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.58:5000?denms.ru
-#EXTINF:0,49 канал Новосибирск
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.170:5000?denms.ru
-#EXTINF:0,8 канал
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.175:5000?denms.ru
-#EXTINF:0,8 канал
-#EXTVLCOPT:network-caching=1000
-http://93.117.53.17:1234/udp/234.0.4.81:1234
-#EXTINF:0,БелРос
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.9:5000?denms.ru
-#EXTINF:0,Вместе-РФ
-#EXTVLCOPT:network-caching=1000
-http://79.133.111.154:999/udp/239.191.254.169:13343?denms.ru
-#EXTINF:0,Звезда
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.145:5000?denms.ru
-#EXTINF:0,Звезда
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.165:5000?denms.ru
-#EXTINF:0,ОТР
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.161:5000?denms.ru
-#EXTINF:0,ОТР
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.137:5000?denms.ru
-#EXTINF:0,ОТР
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.157:5000?denms.ru
-#EXTINF:0,ОТС
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.169:5000?denms.ru
-#EXTINF:0,Первый Образовательный
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.49:5000?denms.ru
-#EXTINF:0,Ратник
-#EXTVLCOPT:network-caching=1000
-https://live-ratnik.cdnvideo.ru/ratnik/ratnik2.sdp/playlist.m3u8?denms.ru
-#EXTINF:0,Россия Культура
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.134:5000?denms.ru
-#EXTINF:0,Россия Культура
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.154:5000?denms.ru
-#EXTINF:0,ТВЦ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.138:5000?denms.ru
-#EXTINF:0,ТВЦ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.158:5000?denms.ru
-#EXTINF:0,ТВЦ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.150:5000?denms.ru
-#EXTINF:0,Disney
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.231:5000?denms.ru
-#EXTINF:0,Disney
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.223.232:5000?denms.ru
-#EXTINF:0,Disney
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.174:5000?denms.ru
-#EXTINF:0,Nick Jr
-#EXTVLCOPT:network-caching=1000
-http://212.75.216.78:81/udp/239.255.42.126:1234?denms.ru
-#EXTINF:0,Nickelodeon
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.52:5000?denms.ru
-#EXTINF:0,Детский
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.54:5000?denms.ru
-#EXTINF:0,Карусель
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.136:5000?denms.ru
-#EXTINF:0,Карусель
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.156:5000?denms.ru
-#EXTINF:0,Мама
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.56:5000?denms.ru
-#EXTINF:0,Мультимузыка
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.134:5000?denms.ru
-#EXTINF:0,О!
-#EXTVLCOPT:network-caching=1000
-http://31.41.96.122:81/udp/225.0.55.199:1234?denms.ru
-#EXTINF:0,Радость моя
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.55:5000?denms.ru
-#EXTINF:0,1HD
-#EXTVLCOPT:network-caching=1000
-https://strm.yandex.ru/kal/1hd/1hd0_169_1080p.json/index-v1-a1.m3u8?denms.ru
-#EXTINF:0,Bridge TV
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.4:5000?denms.ru
-#EXTINF:0,MCM TOP
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.3:5000?denms.ru
-#EXTINF:0,Music Box
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.62:5000?denms.ru
-#EXTINF:0,Music Box Ru
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.61:5000?denms.ru
-#EXTINF:0,NRJ Hits
-#EXTVLCOPT:network-caching=1000
-http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8?denms.ru
-#EXTINF:0,RU.TV
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.63:5000?denms.ru
-#EXTINF:0,VH1 Classic
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.2:5000?denms.ru
-#EXTINF:0,Ля-Минор
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.1:5000?denms.ru
-#EXTINF:0,Муз ТВ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.148:5000?denms.ru
-#EXTINF:0,Муз ТВ
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/225.54.205.168:5000?denms.ru
-#EXTINF:0,Страна FM
-#EXTVLCOPT:network-caching=1000
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8?denms.ru
-#EXTINF:0,ТНТ Music
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.60:5000?denms.ru
-#EXTINF:0,TV1000
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.53:5000?denms.ru
-#EXTINF:0,TV1000 Русское кино
-#EXTVLCOPT:network-caching=1000
-http://176.51.77.121:1234/udp/233.7.70.131:5000?denms.ru
-#EXTINF:0,U.HD
-#EXTVLCOPT:network-caching=1000
-http://ultotv.ru:8888/live/uhd/playlist.m3u8?denms.ru
 #EXTINF:0,ViP Comedy
-#EXTVLCOPT:network-caching=1000
 https://hls-viasat.cdnvideo.ru/hls/relay/1502288433562/index.m3u8?denms.ru
 #EXTINF:0,ViP Megahit
-#EXTVLCOPT:network-caching=1000
 http://37.193.18.15:81/udp/239.1.21.39:1234?denms.ru
 #EXTINF:0,XXI
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/233.7.70.38:5000?denms.ru
 #EXTINF:0,Zee TV
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/233.7.70.41:5000?denms.ru
 #EXTINF:0,НСТ
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/233.7.70.39:5000?denms.ru
 #EXTINF:0,Советская киноклассика
-#EXTVLCOPT:network-caching=1000
 http://streams.tv.mts.by/soviet_classic/1/index.m3u8?denms.ru
 #EXTINF:0,Советское кино
-#EXTVLCOPT:network-caching=1000
 http://strm.yandex.ru/kal/sovkino/sovkino0_169_576p.json/index-v1-a1.m3u8?denms.ru
 #EXTINF:0,ТВ3
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.143:5000?denms.ru
 #EXTINF:0,ТВ3
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/225.54.205.163:5000?denms.ru
 #EXTINF:0,Феникс Кино
-#EXTVLCOPT:network-caching=1000
 http://176.51.77.121:1234/udp/233.7.70.40:5000?denms.ru
+
+#EXTINF:0,СТС Мир
+http://176.51.77.121:1234/udp/225.54.205.141:5000?denms.ru
+#EXTINF:0,СТС Мир
+http://176.51.77.121:1234/udp/225.54.205.173:5000?denms.ru
+#EXTINF:0,СТС Love
+http://176.51.77.121:1234/udp/225.54.223.131:5000?denms.ru
+#EXTINF:0,СТС Love (+2)
+http://176.51.77.121:1234/udp/225.54.223.130:5000?denms.ru
+#EXTINF:0,ТНТ
+http://176.51.77.121:1234/udp/225.54.205.147:5000?denms.ru
+#EXTINF:0,ТНТ
+http://176.51.77.121:1234/udp/225.54.205.167:5000?denms.ru
+#EXTINF:0,ТНТ
+http://176.51.77.121:1234/udp/225.54.223.24:5000?denms.ru
+#EXTINF:0,ТНТ (+7)
+http://176.51.77.121:1234/udp/225.54.223.25:5000?denms.ru
+#EXTINF:0,ТНТ4
+http://176.51.77.121:1234/udp/225.54.23.227:5000?denms.ru
+#EXTINF:0,ТНТ4
+http://176.51.77.121:1234/udp/225.54.23.228:5000?denms.ru
+#EXTINF:0,ТНТ4
+http://176.51.77.121:1234/udp/225.54.23.229:5000?denms.ru
+#EXTINF:0,ТНТ4
+http://176.51.77.121:1234/udp/225.54.205.177:5000?denms.ru
+#EXTINF:0,Супер
+http://176.51.77.121:1234/udp/225.54.223.203:5000?denms.ru
+#EXTINF:0,Euronews
+http://176.51.77.121:1234/udp/233.7.70.32:5000?denms.ru
+#EXTINF:0,Euronews
+https://strm.yandex.ru/kal/euronews_supres/euronews_supres0_169_720p.json/index-v1-a1.?denms.ru
+#EXTINF:0,Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8?denms.ru
+#EXTINF:0,Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0,Известия
+https://strm.yandex.ru/kal/mic/mic0_169_1080p.json/index-v1-a1.m3u8?denms.ru
+#EXTINF:0,Мир
+http://176.51.77.121:1234/udp/225.54.205.146:5000?denms.ru
+#EXTINF:0,Мир
+http://176.51.77.121:1234/udp/225.54.205.166:5000?denms.ru
+#EXTINF:0,Мир 24
+http://176.51.77.121:1234/udp/233.7.70.130:5000?denms.ru
+#EXTINF:0,Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8?denms.ru
+#EXTINF:0,РБК
+http://176.51.77.121:1234/udp/233.7.70.35:5000?denms.ru
+#EXTINF:0,РБК
+http://176.51.77.121:1234/udp/225.54.205.172:5000?denms.ru
+#EXTINF:0,РЖД
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:0,Россия 24
+http://176.51.77.121:1234/udp/225.54.205.135:5000?denms.ru
+#EXTINF:0,Россия 24
+http://176.51.77.121:1234/udp/225.54.205.155:5000?denms.ru
+#EXTINF:0,Томское время
+https://strm.yandex.ru/kal/tomsktime/tomsktime0_169_360p.json/index-v1-a1.m3u8?denms.ru
+#EXTINF:0,24 Техно
+http://176.51.77.121:1234/udp/233.7.70.18:5000?denms.ru
+#EXTINF:0,Discovery Channel
+http://176.51.77.121:1234/udp/233.7.70.12:5000?denms.ru
+#EXTINF:0,National Geographic Channel
+http://176.51.77.121:1234/udp/233.7.70.43:5000?denms.ru
+#EXTINF:0,Viasat Explorer
+http://176.51.77.121:1234/udp/233.7.70.16:5000?denms.ru
+#EXTINF:0,Viasat Nature
+http://176.51.77.121:1234/udp/233.7.70.133:5000?denms.ru
+#EXTINF:0,Viasat History
+http://176.51.77.121:1234/udp/233.7.70.17:5000?denms.ru
+#EXTINF:0,Zooпарк
+http://176.51.77.121:1234/udp/233.7.70.11:5000?denms.ru
+#EXTINF:0,Доктор
+http://176.51.77.121:1234/udp/233.7.70.51:5000?denms.ru
+#EXTINF:0,Неизвестная планета
+https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8?denms.ru
+#EXTINF:0,Просвещение
+http://176.51.77.121:1234/udp/233.7.70.50:5000?denms.ru
+#EXTINF:0,Eurosport 1
+http://176.51.77.121:1234/udp/233.7.70.13:5000?denms.ru
+#EXTINF:0,Eurosport 2
+http://176.51.77.121:1234/udp/233.7.70.14:5000?denms.ru
+#EXTINF:0,Viasat Sport
+http://176.51.77.121:1234/udp/233.7.70.15:5000?denms.ru
+#EXTINF:0,КХЛ
+http://176.51.77.121:1234/udp/233.7.70.5:5000?denms.ru
+#EXTINF:0,КХЛ
+http://176.49.73.238:1234/udp/233.7.70.5:5000?denms.ru
+#EXTINF:0,Матч!
+http://176.51.77.121:1234/udp/225.54.205.131:5000?denms.ru
+#EXTINF:0,Матч!
+http://176.51.77.121:1234/udp/225.54.205.151:5000?denms.ru
+#EXTINF:0,Матч! Арена
+http://109.171.7.25:81/udp/239.54.6.85:1224?denms.ru
+#EXTINF:0,Матч! Футбол 1 HD
+http://94.125.53.200:999/udp/239.191.255.132:15283?denms.ru
+#EXTINF:0,Матч! Футбол 2 HD
+http://94.125.53.200:999/udp/239.191.255.133:15283?denms.ru
+#EXTINF:0,Матч! Футбол 3 HD
+http://94.125.53.200:999/udp/239.191.255.134:15283?denms.ru
+#EXTINF:0,Матч! Премьер
+http://37.235.217.98:81/udp/225.50.67.1:1234?denms.ru
+#EXTINF:0,Русский ЭКСТРИМ
+http://176.51.77.121:1234/udp/233.7.70.7:5000?denms.ru
+#EXTINF:0,Food Network HD
+http://176.51.77.121:1234/udp/233.7.70.10:5000?denms.ru
+#EXTINF:0,Ocean TV
+http://176.51.77.121:1234/udp/233.7.70.46:5000?denms.ru
+#EXTINF:0,Драйв
+http://176.51.77.121:1234/udp/233.7.70.8:5000?denms.ru
+#EXTINF:0,Здоровое ТВ
+http://176.51.77.121:1234/udp/233.7.70.47:5000?denms.ru
+#EXTINF:0,Конный мир
+http://109.248.88.245:4022/udp/239.195.1.109:1234?denms.ru
+#EXTINF:0,Наша Сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8?denms.ru
+#EXTINF:0,Охота и рыбалка
+http://176.51.77.121:1234/udp/233.7.70.44:5000?denms.ru
+#EXTINF:0,Усадьба
+http://176.51.77.121:1234/udp/233.7.70.45:5000?denms.ru
+#EXTINF:0,Успех
+http://176.51.77.121:1234/udp/233.7.70.36:5000?denms.ru
+#EXTINF:0,2x2 (+2)
+http://176.51.77.121:1234/udp/225.54.223.243:5000?denms.ru
+#EXTINF:0,2x2 (+4)
+http://176.51.77.121:1234/udp/225.54.223.241:5000?denms.ru
+#EXTINF:0,World Fashion Channel
+http://176.51.77.121:1234/udp/233.7.70.57:5000?denms.ru
+#EXTINF:0,Домашний
+http://176.51.77.121:1234/udp/225.54.205.142:5000?denms.ru
+#EXTINF:0,Домашний
+http://176.51.77.121:1234/udp/225.54.205.162:5000?denms.ru
+#EXTINF:0,Пятница
+http://176.51.77.121:1234/udp/225.54.205.144:5000?denms.ru
+#EXTINF:0,Ретро ТВ
+http://176.51.77.121:1234/udp/233.7.70.42:5000?denms.ru
+#EXTINF:0,Теледом
+rtmp://91.209.128.203:1935/live/teledom3?denms.ru
+#EXTINF:0,Че
+http://176.51.77.121:1234/udp/225.54.223.211:5000?denms.ru
+#EXTINF:0,Че (+7)
+http://176.51.77.121:1234/udp/225.54.223.212:5000?denms.ru
+#EXTINF:0,Ю
+http://176.51.77.121:1234/udp/225.54.223.221:5000?denms.ru
+#EXTINF:0,Ю
+http://176.51.77.121:1234/udp/225.54.223.223:5000?denms.ru
+#EXTINF:0,Ю
+http://176.51.77.121:1234/udp/225.54.205.171:5000?denms.ru
+#EXTINF:0,Юмор BOX
+http://176.51.77.121:1234/udp/233.7.70.58:5000?denms.ru
+#EXTINF:0,49 канал Новосибирск
+http://176.51.77.121:1234/udp/225.54.205.170:5000?denms.ru
+#EXTINF:0,8 канал0
+http://176.51.77.121:1234/udp/225.54.205.175:5000?denms.ru
+#EXTINF:0,8 канал
+http://93.117.53.17:1234/udp/234.0.4.81:1234
+#EXTINF:0,БелРос
+http://176.51.77.121:1234/udp/233.7.70.9:5000?denms.ru
+#EXTINF:0,Вместе-РФ
+http://79.133.111.154:999/udp/239.191.254.169:13343?denms.ru
+#EXTINF:0,Звезда
+http://176.51.77.121:1234/udp/225.54.205.145:5000?denms.ru
+#EXTINF:0,Звезда
+http://176.51.77.121:1234/udp/225.54.205.165:5000?denms.ru
+#EXTINF:0,ОТР
+http://176.51.77.121:1234/udp/225.54.223.161:5000?denms.ru
+#EXTINF:0,ОТР
+http://176.51.77.121:1234/udp/225.54.205.137:5000?denms.ru
+#EXTINF:0,ОТР
+http://176.51.77.121:1234/udp/225.54.205.157:5000?denms.ru
+#EXTINF:0,ОТС
+http://176.51.77.121:1234/udp/225.54.205.169:5000?denms.ru
+#EXTINF:0,Первый Образовательный
+http://176.51.77.121:1234/udp/233.7.70.49:5000?denms.ru
+#EXTINF:0,Ратник00
+https://live-ratnik.cdnvideo.ru/ratnik/ratnik2.sdp/playlist.m3u8?denms.ru
+#EXTINF:0,Россия Культура
+http://176.51.77.121:1234/udp/225.54.205.134:5000?denms.ru
+#EXTINF:0,Россия Культура
+http://176.51.77.121:1234/udp/225.54.205.154:5000?denms.ru
+#EXTINF:0,ТВЦ0
+http://176.51.77.121:1234/udp/225.54.205.138:5000?denms.ru
+#EXTINF:0,ТВЦ
+http://176.51.77.121:1234/udp/225.54.205.158:5000?denms.ru
+#EXTINF:0,ТВЦ
+http://176.51.77.121:1234/udp/233.7.70.150:5000?denms.ru
+#EXTINF:0,Disney
+http://176.51.77.121:1234/udp/225.54.223.231:5000?denms.ru
+#EXTINF:0,Disney
+http://176.51.77.121:1234/udp/225.54.223.232:5000?denms.ru
+#EXTINF:0,Disney
+http://176.51.77.121:1234/udp/225.54.205.174:5000?denms.ru
+#EXTINF:0,Nick Jr
+http://212.75.216.78:81/udp/239.255.42.126:1234?denms.ru
+#EXTINF:0,Nickelodeon
+http://176.51.77.121:1234/udp/233.7.70.52:5000?denms.ru
+#EXTINF:0,Детский
+http://176.51.77.121:1234/udp/233.7.70.54:5000?denms.ru
+#EXTINF:0,Карусель
+http://176.51.77.121:1234/udp/225.54.205.136:5000?denms.ru
+#EXTINF:0,Карусель
+http://176.51.77.121:1234/udp/225.54.205.156:5000?denms.ru
+#EXTINF:0,Мама
+http://176.51.77.121:1234/udp/233.7.70.56:5000?denms.ru
+#EXTINF:0,Мультимузыка
+http://176.51.77.121:1234/udp/233.7.70.134:5000?denms.ru
+#EXTINF:0,О!
+http://31.41.96.122:81/udp/225.0.55.199:1234?denms.ru
+#EXTINF:0,Радость моя
+http://176.51.77.121:1234/udp/233.7.70.55:5000?denms.ru
+#EXTINF:0,1HD
+https://strm.yandex.ru/kal/1hd/1hd0_169_1080p.json/index-v1-a1.m3u8?denms.ru
+#EXTINF:0,Bridge TV
+http://176.51.77.121:1234/udp/233.7.70.4:5000?denms.ru
+#EXTINF:0,MCM TOP
+http://176.51.77.121:1234/udp/233.7.70.3:5000?denms.ru
+#EXTINF:0,Music Box
+http://176.51.77.121:1234/udp/233.7.70.62:5000?denms.ru
+#EXTINF:0,Music Box Ru
+http://176.51.77.121:1234/udp/233.7.70.61:5000?denms.ru
+#EXTINF:0,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8?denms.ru
+#EXTINF:0,RU.TV
+http://176.51.77.121:1234/udp/233.7.70.63:5000?denms.ru
+#EXTINF:0,VH1 Classic
+http://176.51.77.121:1234/udp/233.7.70.2:5000?denms.ru
+#EXTINF:0,Ля-Минор
+http://176.51.77.121:1234/udp/233.7.70.1:5000?denms.ru
+#EXTINF:0,Муз ТВ
+http://176.51.77.121:1234/udp/225.54.205.148:5000?denms.ru
+#EXTINF:0,Муз ТВ
+http://176.51.77.121:1234/udp/225.54.205.168:5000?denms.ru
+#EXTINF:0,Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8?denms.ru
+#EXTINF:0,ТНТ Music
+http://176.51.77.121:1234/udp/233.7.70.60:5000?denms.ru
+#EXTINF:0,TV1000
+http://176.51.77.121:1234/udp/233.7.70.53:5000?denms.ru
+#EXTINF:0,TV1000 Русское кино
+http://176.51.77.121:1234/udp/233.7.70.131:5000?denms.ru
+#EXTINF:0,U.HD
+http://ultotv.ru:8888/live/uhd/playlist.m3u8?denms.ru
