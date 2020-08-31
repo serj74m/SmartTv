@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1ОРТ
-http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1ОРТ-1
-http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_1.m3u8
-#EXTINF:-1
-http://31.128.159.9:80/kinotv/mpegts
-#EXTINF:-Победа
-http://vs-msk-02.tv.ti.ru:80/dtv/id1336_NBN_SG--Pobeda/03/plst.m3u8
-#EXTINF:-тв 1000 Action
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TV1000ACTION.m3u8
 #EXTINF:30,ViP_Comedy_HD
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
 #EXTINF:0,VIP Megahit
